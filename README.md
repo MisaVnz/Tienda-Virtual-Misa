@@ -10,7 +10,7 @@ Este codigo se basa en una tienda de laptops virtual hecha con el lenguaje de pr
 * Interfaz interactiva con imagenes: Tiene disponibles 10 imagenes de diferentes modelos de laptops con sus precios reales, y dos botones interactivos para pasar al siguiente producto o al anterior.(En el caso de querer agregarse mas imagenes hay un apartado comentado en el codigo para eso).
 * Comentarios informativos: En las diferentes interfaces del codigo cuenta con pequeños comentarios informativos para hacer mas entendible el funcionamiento de la tienda.
 
-Esta aplicacion fue realizada al 100% con el lenguaje de programacion Python utilizando como interfaz grafica la libreria tkinter, y como opcion para guardar y manejar base de datos se ha usado Mysql en el panel de XAMPP.
+Esta aplicacion fue realizada al 100% con el lenguaje de programacion Python utilizando 3 archivos para su inicializacion(Tienda V1.0-Archivo principal.py, ventanas_emergentes.py y Funciones.py) siendo el primero el que ejecuta la tienda virtual y como interfaz grafica la libreria tkinter, tambien como opcion para guardar y manejar base de datos se ha usado Mysql en el panel de XAMPP.
 
 El archivo es originalmente elaborado por el estudiante del 6to Semestre de Telecom @MisaVnz(Misael Carmona), estudiante de la UNEFA.
 
