@@ -1,0 +1,10 @@
+Para el correcto funcionamiento de este codigo se debe realizar estos pasos:
+
+1- Abrir xampp en tu computador y iniciar apache y mysql
+2- Crear una nueva base de datos llamada tienda_db 
+3- Importar la base de datos que se encuentra en en la carpeta Base de Datos, puedes importarla y seleccionar el archivo db, o en mysql copiar y pegar dicho codigo que se encuentra en tienda_db.sql.
+4- Con estos criterios deberia de poder iniciar la tienda online LAPTOPSTORE-UNEFA
+5- El usuario para poder ingresar como administrador es Misa_Vnz como usuario, y como contraseña Santa25
+
+
+Codigo realizado por el estudiante del 6to semestre de Ingenieria de Telecomunicaciones-Misael Carmona
